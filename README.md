@@ -1,2 +1,6 @@
-# wiremock-demo
-Demo project for a Wiremock with Helm deployment
+# GitLab 
+
+This repository has moved to GitLab:
+
+https://gitlab.com/olof-nord/wiremock-demo
+
